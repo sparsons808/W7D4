@@ -222,3 +222,58 @@ Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f
 Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594776110" for ::1 at 2021-07-29 17:39:36 -0400
 Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594812274" for ::1 at 2021-07-29 17:40:12 -0400
 Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594812276" for ::1 at 2021-07-29 17:40:12 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627595734690" for ::1 at 2021-07-29 17:55:34 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627595734689" for ::1 at 2021-07-29 17:55:34 -0400
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /Library/Ruby/Gems/2.6.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Started GET "/" for ::1 at 2021-07-29 18:04:06 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (9.6ms)
+Completed 200 OK in 78ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f22022ac2183350aabe868783e872ec736e09131c5d33ae0d40874c1d1aafb0e.css?body=1" for ::1 at 2021-07-29 18:04:06 -0400
+Started GET "/assets/application.self-f22022ac2183350aabe868783e872ec736e09131c5d33ae0d40874c1d1aafb0e.css?body=1&livereload=1627596376349" for ::1 at 2021-07-29 18:06:16 -0400
+Started GET "/assets/application.self-f22022ac2183350aabe868783e872ec736e09131c5d33ae0d40874c1d1aafb0e.css?body=1&livereload=1627596376350" for ::1 at 2021-07-29 18:06:16 -0400
+Started GET "/" for ::1 at 2021-07-29 18:14:19 -0400
+Started GET "/" for ::1 at 2021-07-29 18:14:19 -0400
+Processing by StaticPagesController#index as HTML
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.7ms)
+  Rendered shared/_main_nav.html.erb (0.0ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.0ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.0ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.0ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.4ms)
+  Rendered shared/_main_content.html.erb (0.0ms)
+  Rendered static_pages/index.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 53ms (Views: 51.2ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 53ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-28c737e56a57d3be5cb7862d8a72b13ffa93138f959914373d274b1f1c14297f.css?body=1" for ::1 at 2021-07-29 18:14:19 -0400
+Started GET "/" for ::1 at 2021-07-29 18:16:59 -0400
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (1.0ms)
+  Rendered shared/_search_modal.html.erb (1.5ms)
+  Rendered shared/_main_content.html.erb (0.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 43ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
