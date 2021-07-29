@@ -216,3 +216,9 @@ Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b
 Started GET "/assets/application.self-f571b9db02bf4ed04c38a6a29072ac382f7d4f47db1fab9817aeadb0d8665235.js?body=1" for ::1 at 2021-07-29 13:42:07 -0400
 Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2021-07-29 13:42:07 -0400
 Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2021-07-29 13:42:07 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594729915" for ::1 at 2021-07-29 17:38:49 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594729917" for ::1 at 2021-07-29 17:38:49 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594776107" for ::1 at 2021-07-29 17:39:36 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594776110" for ::1 at 2021-07-29 17:39:36 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594812274" for ::1 at 2021-07-29 17:40:12 -0400
+Started GET "/assets/application.self-0a6ea025afc288196bd47fa2016fae02339f885f6f7f8362f38eda4bdc0cd5f1.css?body=1&livereload=1627594812276" for ::1 at 2021-07-29 17:40:12 -0400
